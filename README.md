@@ -30,7 +30,7 @@ The poem should eventually look like this when you're done making changes:
 
 #### Using the Asset Pipeline
 
-The assets you need require will live somewhere in the following locations, inside of your Rails application directory:
+The assets you need to require will live somewhere in the following locations, inside of your Rails application directory:
 
 ```
 app/                   # application specific code
